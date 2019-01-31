@@ -10,8 +10,8 @@ public float angle;
 
 	void Start () {
 		var pos = transform.position;
-		angle = Mathf.Atan2(pos.y, pos.x) * Mathf.Rad2Deg;
-		transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+		angle = Mathf.Atan2(pos.y, pos.x);
+		transform.rotation = Quaternion.AngleAxis(angle* Mathf.Rad2Deg, Vector3.forward);
 	}
 
 	public float Remap ( float value, float from1, float to1, float from2, float to2) {
@@ -19,7 +19,8 @@ public float angle;
 	}
 	
 	void Update () {
-	float RemappedAngle = Remap((angle/255.0f),-3.14f,3.14f,0,1);//Remapping From [-PI,PI] to [0,1]
-	GetComponent<SpriteRenderer>().color = new Color(Mathf.Ceil(RemappedAngle-(1-value)),0,0,1);	
+	float RemappedAngle = Remap(angle,-3.14f,3.14f,0,1);//Remapping From [-PI,PI] to [0,1]
+	float CeiledValue = Mathf.Ceil(RemappedAngle-(1-value));
+	GetComponent<SpriteRenderer>().color = new Color(CeiledValue,0,0,1);	
 	}
 }

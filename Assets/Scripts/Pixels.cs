@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class Pixels : MonoBehaviour
 {
-    [Range(0.3f,1)]
+    [Range(0,1)]
 	public float value = 0;
     public int GridWidth;
     public int GridHeight;
