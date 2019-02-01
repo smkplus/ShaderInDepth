@@ -4,7 +4,7 @@ working progress...
 
 # Inverse Effect
 
-![finalbook](https://user-images.githubusercontent.com/16706911/52146970-8b831500-267a-11e9-81c1-ac583b743edf.png)
+![finalbook](https://user-images.githubusercontent.com/16706911/52147723-d6059100-267c-11e9-8848-812b001d4146.png)
 
 
 
