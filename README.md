@@ -1,10 +1,13 @@
 # ShaderInDepth
 
-working progress...
+Mastering Unity Shaders And Effect Book
+By Seyed Morteza Kamali
+
+Working progress...
 
 # Inverse Effect
 
-![finalbook](https://user-images.githubusercontent.com/16706911/52147723-d6059100-267c-11e9-8848-812b001d4146.png)
+![finalbook 1](https://user-images.githubusercontent.com/16706911/52147821-1fee7700-267d-11e9-9e58-1444c1503f09.png)
 
 
 
