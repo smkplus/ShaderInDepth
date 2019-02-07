@@ -34,11 +34,14 @@ https://www.linkedin.com/pulse/tunnel-effect-seyed-morteza-kamali/
 
 ![0](https://user-images.githubusercontent.com/16706911/52147078-dbfa7280-267a-11e9-9b66-9a058f761375.jpg)
 
+https://www.linkedin.com/pulse/twist-effect-seyed-morteza-kamali/
+
 
 # Shaping Functions
 
 ![ext](https://user-images.githubusercontent.com/16706911/52397331-520f3700-2aca-11e9-8ecf-6024abb30546.jpg)
 
+https://www.linkedin.com/pulse/shaping-functions-seyed-morteza-kamali/
 
 
 # Mandelbrot set
@@ -48,7 +51,7 @@ https://www.linkedin.com/pulse/tunnel-effect-seyed-morteza-kamali/
 https://www.linkedin.com/pulse/mandelbrot-fractals-seyed-morteza-kamali/
 
 
-https://www.linkedin.com/pulse/twist-effect-seyed-morteza-kamali/
+
 
 
 ![patreon-logo](https://user-images.githubusercontent.com/16706911/52148282-6bedeb80-267e-11e9-9ac2-1c2de45e0063.png)
