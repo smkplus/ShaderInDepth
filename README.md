@@ -45,6 +45,7 @@ https://www.linkedin.com/pulse/tunnel-effect-seyed-morteza-kamali/
 
 ![61333_fractal_mandelbrot_set](https://user-images.githubusercontent.com/16706911/52397317-3a37b300-2aca-11e9-8b29-14cb67584b2a.jpg)
 
+https://www.linkedin.com/pulse/mandelbrot-fractals-seyed-morteza-kamali/
 
 
 https://www.linkedin.com/pulse/twist-effect-seyed-morteza-kamali/
