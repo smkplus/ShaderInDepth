@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Unlit_Polygons
-  m_Shader: {fileID: 4800000, guid: 54b5df73a1727e04faf9bb1daef1a8a0, type: 3}
+  m_Shader: {fileID: 4800000, guid: fcf9ce62ba419164a99f389223e7dcb4, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -17,8 +17,16 @@ Material:
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _HeightMax: 1
+    - _HeightMin: 0
     - _PolygonNumber: 1.5
     - _node_7807: 30
-    m_Colors: []
+    m_Colors:
+    - _ColorMax: {r: 1, g: 0.9724138, b: 0, a: 1}
+    - _ColorMin: {r: 1, g: 0, b: 0, a: 1}
